@@ -19,6 +19,7 @@ namespace EjerciciosDeFundamentosEnCchar
                     Console.WriteLine("La suma de los impares es" + r);
                 }
             }
+            Console.ReadKey();
         }
     }
 }

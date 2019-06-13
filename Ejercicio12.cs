@@ -46,6 +46,7 @@ namespace EjerciciosDeFundamentosEnCchar
                 default:
                     Console.WriteLine("No hay registro"); break;
             }
+            Console.ReadKey();
         }
     }
 }

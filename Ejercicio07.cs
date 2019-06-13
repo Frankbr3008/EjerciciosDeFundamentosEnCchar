@@ -29,7 +29,7 @@ namespace EjerciciosDeFundamentosEnCchar
             else {
                 Console.WriteLine("el numero no es divisible ni por 5 ni por 11");
             }
-
+            Console.ReadKey();
         }
     }
 }

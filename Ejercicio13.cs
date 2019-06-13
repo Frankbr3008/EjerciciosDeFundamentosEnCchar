@@ -95,8 +95,8 @@ namespace EjerciciosDeFundamentosEnCchar
                 resp = Console.ReadLine();
             
             }while (resp == "s" || resp == "s");
-
-           }
+            Console.ReadKey();
+        }
         }
     }
 

@@ -19,6 +19,7 @@ namespace EjerciciosDeFundamentosEnCchar
                 letra++;
 
             }
+            Console.ReadKey();
         }
     }
 }

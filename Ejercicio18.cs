@@ -21,6 +21,7 @@ namespace EjerciciosDeFundamentosEnCchar
                 }
                 Console.WriteLine("\n\n");
             }
+            Console.ReadKey();
         }
     }
 }

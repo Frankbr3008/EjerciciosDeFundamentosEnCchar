@@ -21,6 +21,8 @@ namespace EjerciciosDeFundamentosEnCchar
             else {
                 Console.WriteLine("el numero" + valor + "es impar");
             }
+
+            Console.ReadKey();
         }
     }
 }

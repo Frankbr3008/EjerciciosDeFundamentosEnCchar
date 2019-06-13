@@ -28,6 +28,8 @@ namespace EjerciciosDeFundamentosEnCchar
                 Console.WriteLine("no puso algun numero");
             }
 
+            Console.ReadKey();
+
         }
     }
 }

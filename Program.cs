@@ -10,30 +10,14 @@ namespace EjerciciosDeFundamentosEnCchar
     {
         static void Main(string[] args)
         {
-            int num;
-
-            Console.WriteLine("ingrese un numero");
-            num = int.Parse(Console.ReadLine());
-
-            if (num == 0)
-            {
-                Console.WriteLine("su numero es neutro(0)");
-            }
-            else if (num >= 1)
-            {
-                Console.WriteLine("su numero es positivo");
-            }
-            else if (num <= -1)
-            {
-                Console.WriteLine("su numero es negativo");
-            }
-            Console.ReadKey();
+            
         }
-        
 
         internal int CUBO(int nUM)
         {
             throw new NotImplementedException();
         }
-    }
+    } 
+
+       
 }

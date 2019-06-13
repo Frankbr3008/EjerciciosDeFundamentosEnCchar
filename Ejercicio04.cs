@@ -22,6 +22,7 @@ namespace EjerciciosDeFundamentosEnCchar
             else {
                 Console.WriteLine("el año" + año + "no es Biciesto");
             }
-}
+            Console.ReadKey();
+        }
     }
 }

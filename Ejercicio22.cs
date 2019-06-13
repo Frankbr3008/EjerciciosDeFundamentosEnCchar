@@ -17,11 +17,11 @@ namespace EjerciciosDeFundamentosEnCchar
 
             for (int i=1; i<=0; i++) {
 
-                result = num * 1;
+                result = num * i;
                 Console.WriteLine(num+" * "+i+" = "+result);
             }
             Console.WriteLine("");
-            Console.Read();
+            Console.ReadKey();
         }
     }
 }

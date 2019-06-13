@@ -20,6 +20,7 @@ namespace EjerciciosDeFundamentosEnCchar
             { sumfin = contador;
                 Console.WriteLine("la suma final es"+sumfin);
             }
+            Console.ReadKey();
         }
     }
 }

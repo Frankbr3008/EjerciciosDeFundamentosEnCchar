@@ -27,7 +27,9 @@ namespace EjerciciosDeFundamentosEnCchar
         private int CUBO(int AUX)
         {
             return AUX * AUX * AUX;
+          
         }
+        
     }
     }
 

@@ -32,6 +32,8 @@ namespace EjerciciosDeFundamentosEnCchar
                 Console.WriteLine("el numero" + z + "es el mayor");
             }
             else { Console.WriteLine("error 220"); }
+
+            Console.ReadKey();
         }
         }
     }

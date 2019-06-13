@@ -18,6 +18,7 @@ namespace EjerciciosDeFundamentosEnCchar
                 Console.WriteLine("Valor de i: {0}", i);
                 i--;
             }
+            Console.ReadKey();
         }
     }
 }

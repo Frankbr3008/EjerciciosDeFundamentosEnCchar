@@ -23,6 +23,7 @@ namespace EjerciciosDeFundamentosEnCchar
 
                 Console.WriteLine("la letra es una consonante");
             }
+            Console.ReadKey();
 
         }
     }

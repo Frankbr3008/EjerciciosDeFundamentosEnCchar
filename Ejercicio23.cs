@@ -36,9 +36,9 @@ namespace EjerciciosDeFundamentosEnCchar
 
             } while (valor != 0);
             Console.WriteLine("Al digital cero el programa termina...");
-            Console.ReadLine();
-
+            Console.ReadKey();
         }
+        
     }
     }
 
